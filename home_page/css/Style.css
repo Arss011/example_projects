@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    margin-bottom: 100px;
+}
+
+.container > ul {
+    width: 40%;
+    margin: auto;
+    margin-left: 100px;
+    padding-bottom: 40px;
+}
