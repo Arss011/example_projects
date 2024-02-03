@@ -1,11 +1,15 @@
 body {
     text-align: center;
+    background-color: antiquewhite;
 }
 
 .container {
     width: 80%;
     margin: auto;
     margin-bottom: 100px;
+    padding: 20px;
+
+    background-color: azure;
 }
 
 .container > ul {
@@ -13,4 +17,13 @@ body {
     margin: auto;
     margin-left: 100px;
     padding-bottom: 40px;
+}
+
+.container h4 {
+    margin-left: -150px;
+}
+
+.container button {
+    background-color: aquamarine;
+    border-radius: 4px;
 }
